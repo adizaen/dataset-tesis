@@ -1,4 +1,4 @@
-mridate,age,male,race,weight,height,packyrs,yrsqui,t   alcoh,physact,chf,chd,stroke,diabet,genhlth,ldl,alb,crt,plt,sbp,aai,fev,dsst,atrophy,whgrd,numinf,volinf,obstime,death
+mridate,age,male,race,weight,height,packyrs,yrsqui,talcoh,physact,chf,chd,stroke,diabet,genhlth,ldl,alb,crt,plt,sbp,aai,fev,dsst,atrophy,whgrd,numinf,volinf,obstime,death
 120791,72,1,2,173,169,54,0,0,9.84,0,1,2,0,3,135,3.7,1.4,275,139,1.0303,1.284,25,20,2,1,7.4613,2110,0
 90192,81,0,2,139,170,0,0,0.25,0.78,0,0,0,0,2,84,3.8,1.3,142,146,1.1104,2.553,51,43,2,3,0.1414,1841,0
 82092,90,1,2,145,170,0,0,1.25,1.635,0,0,0,0,3,115,4.2,1.2,192,134,1.0136,2.383,27,35,1,2,0.1885,1853,0
